@@ -27,8 +27,8 @@ developerOptions: false
 devOptionsLocStore: "gitCRATemplateDevOptions"
 exitByURL: true
 exitPage:
-en: "/ccb/source/exit-intent-e.html"
-fr: "/ccb/source/exit-intent-f.html"
+  en: "/ccb/source/exit-intent-e.html"
+  fr: "/ccb/source/exit-intent-f.html"
 externalOrigin: "https://www.canada.ca"
 modifiedLinkList: "/ccb/source/data/exclude-redirect-links.json"
 relativeExternalLinks: false
