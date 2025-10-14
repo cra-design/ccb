@@ -11,7 +11,7 @@ It contains the template files and in-scope pages needed to get started.
 
 GitHub Pages: [https://cra-design.github.io/ccb](https://cra-design.github.io/ccb)
 
-[https://cra-design.github.io/ccb/services/taxes/child-and-family-benefits.html](https://cra-design.github.io/ccb/services/taxes/child-and-family-benefits.html)
+- [https://cra-design.github.io/ccb/services/taxes/child-and-family-benefits.html](https://cra-design.github.io/ccb/services/taxes/child-and-family-benefits.html)
 
 ---
 ## Update procedures
