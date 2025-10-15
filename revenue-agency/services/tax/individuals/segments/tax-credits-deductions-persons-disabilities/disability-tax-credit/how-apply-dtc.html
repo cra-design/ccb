@@ -76,10 +76,10 @@ notedlinks:
                        // mws-1900 - the heading from texts contains contains text without backslash before appostraphy, where as tags returned by query selector does not contain them
                         // hence removing backslash for creating equal comparison in order to add id reference
                         if(tags[j].textContent.trim() === hText[i].replace(/\\/g, '')) {
-    			if(!tags[j].id) {
-    				tags[j].setAttribute('id', 'toc'+i);
-    				break;
-    			}
+                if(!tags[j].id) {
+                    tags[j].setAttribute('id', 'toc'+i);
+                    break;
+                }
                         }
                     }
                 }
@@ -88,7 +88,7 @@ notedlinks:
     };
 </script>
 <div class="row">
-    <div class="col-md-8">
+
         <h2>Get ready to apply</h2>
         <p>Applying for the DTC involves the person who has the impairment and a medical practitioner who can certify the effects of the impairment.</p>
         <h3>Find a medical practitioner to certify your impairment</h3>
@@ -340,10 +340,8 @@ notedlinks:
                 </details>
             </div>
         </div>
-    </div>
 </div>
 <div class="row">
-    <div class="col-md-8">
         <h2>Submit the application</h2>
         <p>There are 2 ways to submit a completed Form T2201,<em> Disability Tax Credit Certificate</em>, and any related documents to the CRA.</p>
         <dl class="dl-horizontal brdr-0 mrgn-bttm-sm">
@@ -394,5 +392,5 @@ notedlinks:
                 </li>
             </ul>
         </nav>
-    </div>
+
 </div>
