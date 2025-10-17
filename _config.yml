@@ -23,7 +23,7 @@ en: "Canada Revenue Agency"
 fr: "Agence du revenu du Canada"
 
 # Custom settings
-developerOptions: false
+developerOptions: true
 devOptionsLocStore: "gitCRATemplateDevOptions"
 exitByURL: true
 exitPage:
