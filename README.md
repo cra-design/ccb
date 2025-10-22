@@ -2,7 +2,7 @@
 
 *description of the COP*
 
-**COP timeframe** 2025-09-30 - 2026-01-06
+**COP timeframe** 2025-09-xx - 2025-12-xx
 
 ## Overview
 
@@ -31,4 +31,4 @@ Ex. [https://cra-design.github.io/ccb/services/taxes/child-and-family-benefits.h
 - [ ] Refine prototype (if required)
 - [ ] Spot check usability (if required)
 
-**Updated:**  2025-10-14
+**Updated:**  2025-10-22
