@@ -1,4 +1,4 @@
-# ccb COP
+# CCB COP
 
 *description of the COP*
 
