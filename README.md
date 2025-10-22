@@ -16,7 +16,10 @@ GitHub Pages: [https://cra-design.github.io/ccb](https://cra-design.github.io/cc
 ---
 ## Update procedures
 
-Add information on how to manage the repo here.
+This project is using Jekyll templates. When you view the page on Github you will see a section at the top with some editable areas. Normall it's only necessary to edit the title and possibly adjust the breadcrumbs. Below this is the content code which is the primary part we will be editing when iterating. With the Jekyll templates the footer and header are added/managed with scripts allowing for some additonal features to be available for us when editing and testing.
+
+If you would like to see how the code would look like when published IE how it would look on canada.ca you can just view the HTML page on Github.
+Ex. [https://cra-design.github.io/ccb/services/taxes/child-and-family-benefits.html](https://cra-design.github.io/ccb/services/taxes/child-and-family-benefits.html)
 
 ---
 ## Design phase roadmap:
