@@ -11,7 +11,7 @@ It contains the template files and in-scope pages needed to get started.
 
 GitHub Pages: [https://cra-design.github.io/ccb](https://cra-design.github.io/ccb)
 
-HTML Pages: [https://cra-design.github.io/ccb/services/taxes/child-and-family-benefits.html](https://cra-design.github.io/ccb/services/taxes/child-and-family-benefits.html)
+HTML Pages: [Tax credits and benefits for individuals](https://cra-design.github.io/ccb/services/taxes/child-and-family-benefits.html)
 
 - [Canada child benefit (CCB)]([Canada child benefit (CCB)](https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html))
 - [https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit.html](https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit.html)
