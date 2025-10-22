@@ -13,9 +13,9 @@ GitHub Pages: [https://cra-design.github.io/ccb](https://cra-design.github.io/cc
 
 HTML Pages: [Tax credits and benefits for individuals](https://cra-design.github.io/ccb/services/taxes/child-and-family-benefits.html)
 
-- [Canada child benefit (CCB)]([Canada child benefit (CCB)](https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html))
-- [https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit.html](https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit.html)
-- [https://cra-design.github.io/ccb/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html](https://cra-design.github.io/ccb/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html)
+- [Canada child benefit (CCB)](https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html)
+- [GST/HST credit](https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit.html)
+- [Disability tax credit (DTC)](https://cra-design.github.io/ccb/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html)
 
 ---
 ## Update procedures
