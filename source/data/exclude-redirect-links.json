@@ -47,4 +47,8 @@
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/address-tax-centre-mail-your-forms.html",
     "destination": "/ccb/child-family-benefits/address-tax-centre-mail-your-forms.html"
   }
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html",
+    "destination": "/ccb/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html"
+  }  
 ]
