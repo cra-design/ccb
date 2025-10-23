@@ -1,5 +1,9 @@
 [
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html",
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html"
+  },  
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits.html",
     "destination": "/ccb/revenue-agency/services/child-family-benefits.html"
   },
@@ -46,11 +50,11 @@
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/address-tax-centre-mail-your-forms.html",
     "destination": "/ccb/revenue-agency/services/child-family-benefits/address-tax-centre-mail-your-forms.html"
-  }
+  },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html",
     "destination": "/ccb/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html"
-  }
+  },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gst-hst-credit.html",
     "destination": "/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit.html"
