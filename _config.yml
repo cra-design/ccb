@@ -25,13 +25,13 @@ fr: "Agence du revenu du Canada"
 # Custom settings
 developerOptions: true
 devOptionsLocStore: "gitCRATemplateDevOptions"
-exitByURL: false
+exitByURL: true
 exitPage:
   en: "/ccb/source/exit-intent-e.html"
   fr: "/ccb/source/exit-intent-f.html"
 externalOrigin: "https://www.canada.ca"
 modifiedLinkList: "/ccb/source/data/exclude-redirect-links.json"
-relativeExternalLinks: true
+relativeExternalLinks: false
 testBanner: true
 
 # Page front matter defaults
