@@ -50,5 +50,9 @@
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html",
     "destination": "/ccb/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html"
+  }
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gst-hst-credit.html",
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit.html"
   }  
 ]
