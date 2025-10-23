@@ -1,54 +1,54 @@
 [
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits.html",
-    "destination": "/revenue-agency/services/ccb/child-family-benefits.html"
+    "destination": "/ccb/revenue-agency/services/child-family-benefits.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/provincial-territorial-programs.html",
-    "destination": "/ccb/child-family-benefits/provincial-territorial-programs.html"
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/provincial-territorial-programs.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-disability-benefit.html",
-    "destination": "/ccb/child-family-benefits/child-disability-benefit.html"
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/child-disability-benefit.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/childrens-special-allowances.html",
-    "destination": "/ccb/child-family-benefits/childrens-special-allowances.html"
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/childrens-special-allowances.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/automated-benefits-application.html",
-    "destination": "/ccb/child-family-benefits/automated-benefits-application.html"
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/automated-benefits-application.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/keep-your-information-date.html",
-    "destination": "/ccb/child-family-benefits/keep-your-information-date.html"
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/keep-your-information-date.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/validating-your-eligibility-benefits-credits.html",
-    "destination": "/ccb/child-family-benefits/validating-your-eligibility-benefits-credits.html"
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/validating-your-eligibility-benefits-credits.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html",
-    "destination": "/ccb/child-family-benefits/child-family-benefits-calculator.html"
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/balance-owing-benefits-overpayment.html",
-    "destination": "/ccb/child-family-benefits/balance-owing-benefits-overpayment.html"
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/balance-owing-benefits-overpayment.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/benefit-payment-dates.html",
-    "destination": "/ccb/child-family-benefits/benefit-payment-dates.html"
+    "destination": "/ccb//revenue-agency/serviceschild-family-benefits/benefit-payment-dates.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/benefits-statistics.html",
-    "destination": "/ccb/child-family-benefits/benefits-statistics.html"
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/benefits-statistics.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/address-tax-centre-mail-your-forms.html",
-    "destination": "/ccb/child-family-benefits/address-tax-centre-mail-your-forms.html"
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/address-tax-centre-mail-your-forms.html"
   }
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html",
-    "destination": "/ccb/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html"
+    "destination": "/ccb/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html"
   }  
 ]
