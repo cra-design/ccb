@@ -165,7 +165,7 @@ notedlinks:
     background-image: none !important;
 }            
       </style>
-      
+
 <div class="container">
     <nav class="provisional gc-subway">
         <h1>Canada child benefit</h1>
@@ -205,7 +205,7 @@ notedlinks:
             <input type="checkbox" id="ec2" name="action-checkbox" value="additional">
             <label for="ec2">You are primarily responsible for the care and upbringing of the child</label>
 
-            <details>    
+            <details class="mrgn-lft-xl mrgn-rght-md mrgn-tp-sm">
             <summary><a href="#primary">Who is considered to be primarily responsible for the child</a></summary>
             <p>The person who is primarily responsible for the care and upbringing of the child could be a parent, step-parent, grandparent, relative, or legal guardian who is responsible for things such as:</p>
             <ul>
@@ -232,14 +232,14 @@ notedlinks:
                             <li class="mrgn-lft-md">Permanent resident</li>
                             <li class="mrgn-lft-md">
                                 Protected person (received a <strong>positive</strong> Notice of Decision from the Immigration and Refugee Board)
-                                <details class="mrgn-lft-xl mrgn-rght-md mrgn-tp-sm">
+                                <details>
                                     <summary>Exception</summary>
                                     <p>An individual with a “Refugee Protection Claimant Document” is not eligible for the CCB.</p>
                                 </details>
                             </li>
                             <li class="mrgn-lft-md">
                                 <p>Temporary resident</p>
-                                <details class="mrgn-lft-xl mrgn-rght-md mrgn-tp-sm">
+                                <details>
                                     <summary>Who is considered to be a temporary resident</summary>
                                     <p>To be considered as a temporary resident, you must meet both conditions:</p>
                                     <ul>
@@ -378,4 +378,3 @@ notedlinks:
     $(":input[type=checkbox][name=action-checkbox]").change(updateChkbxList);
     $(":input[type=checkbox][name=action-checkbox][value=true]").change(updatePartChkbxList);
 </script>
-
