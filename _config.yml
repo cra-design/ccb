@@ -68,3 +68,4 @@ defaults:
       script:
         - https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/m%C3%A9li-m%C3%A9lo/2025-12-mille-iles.js
         - https://cra-design.github.io/core-prototype/source/scripts/external-link-detour.js
+        - https://cra-design.github.io/ccb/assets/js/checkbox.js
