@@ -149,7 +149,7 @@ notedlinks:
     margin-top: 20px;
 }
 /*fix OR pattern in checklists*/
-[class*=cnjnctn-type-] {
+[class*=cnjnctn-type-and] {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: column;
@@ -161,7 +161,7 @@ notedlinks:
     min-height: 60px;
 }
 /*css to remove OR line for specific pages in dental/housing*/
-[class*=cnjnctn-type-] [class*=cnjnctn-col]:not(:first-child):after {
+[class*=cnjnctn-type-and] [class*=cnjnctn-col]:not(:first-child):after {
     background-image: none !important;
 }            
       </style>
@@ -197,13 +197,13 @@ notedlinks:
 
 <ul class="checkbox-zebra gc-chckbxrdio">
         <li class="checkbox">
-            <input type="checkbox" id="ec1" name="action-checkbox" value="additional">
-            <label for="ec1">You live with a child who is under 18 years old</label> 
+            <input type="checkbox" id="eg1" name="action-checkbox" value="additional">
+            <label for="eg1">You live with a child who is under 18 years old</label> 
 
         </li>
         <li class="checkbox">
-            <input type="checkbox" id="ec2" name="action-checkbox" value="additional">
-            <label for="ec2">You are primarily responsible for the care and upbringing of the child</label>
+            <input type="checkbox" id="eg2" name="action-checkbox" value="additional">
+            <label for="eg2">You are primarily responsible for the care and upbringing of the child</label>
 
             <details class="mrgn-lft-xl mrgn-rght-md mrgn-tp-sm">
             <summary><a href="#primary">Who is considered to be primarily responsible for the child</a></summary>
@@ -219,10 +219,10 @@ notedlinks:
         </li>
 
         <li class="checkbox">
-                <input type="checkbox" id="ec3" name="action-checkbox" value="additional">
-                    <label for="ec3"><strong>Both</strong> of following are true:</label> 
+                <input type="checkbox" id="eg3" name="action-checkbox" value="additional">
+                    <label for="eg3"><strong>Both</strong> of following are true:</label> 
 
-            <ul class="cnjnctn-type-and">
+            <ul class="cnjnctn-type-and mrgn-tp-0">
               <li class="cnjnctn-col">
                 <p>You are a resident of Canada for tax purposes</p> 
                 
@@ -259,8 +259,8 @@ notedlinks:
 
         </li>
         <li class="checkbox">
-            <input type="checkbox" id="ec4" name="action-checkbox" value="additional">
-            <label for="ec4">You are not applying for a foster child who is already receiving the Children's special allowance (CSA)</label> 
+            <input type="checkbox" id="eg4" name="action-checkbox" value="additional">
+            <label for="eg4">You are not applying for a foster child who is already receiving the Children's special allowance (CSA)</label> 
 
             <details class="mrgn-lft-xl mrgn-rght-md mrgn-tp-sm">
             <summary>Rule for receiving the CCB and the Children's special allowance</summary>
