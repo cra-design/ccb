@@ -25,7 +25,7 @@ fr: "Agence du revenu du Canada"
 # Custom settings
 developerOptions: true
 devOptionsLocStore: "gitCRATemplateDevOptions"
-exitByURL: true
+exitByURL: false
 exitPage:
   en: "/ccb/source/exit-intent-e.html"
   fr: "/ccb/source/exit-intent-f.html"
