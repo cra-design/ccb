@@ -148,22 +148,7 @@ div.hidden-action {
     margin-left: 30px;
     margin-top: 20px;
 }
-/*fix OR pattern in checklists*/
-[class*=cnjnctn-type-] {
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: column;
-    margin-bottom: 15px;
-    margin-left: -15px; /*was 5*/
-    margin-right: 0px;
-    margin-top: 0px; /*was 15*/
-    position: relative;
-    min-height: 60px;
-}
-/*css to remove OR line for specific pages in dental/housing*/
-[class*=cnjnctn-type-] [class*=cnjnctn-col]:not(:first-child):after {
-    background-image: none !important;
-}   
+
 </style>
 
     <nav class="provisional gc-subway">
@@ -220,7 +205,7 @@ div.hidden-action {
                 <input type="checkbox" id="eg3" name="action-checkbox" value="additional">
                     <label for="eg3"><strong>Both</strong> of following are true:</label> 
 
-            <ul class="cnjnctn-type-and mrgn-tp-0 mrgn-lft-xl mrgn-rght-md">
+            <ul class="cnjnctn-type-and mrgn-tp-0 mrgn-lft-xl mrgn-rght-md gc-font-2019">
               <li class="cnjnctn-col">
                 <p>You are a resident of Canada for tax purposes</p> 
                 <details class="gc-font-2019">
@@ -350,6 +335,7 @@ div.hidden-action {
             </details>
         </li>
     </ul>
+
 
 
 
