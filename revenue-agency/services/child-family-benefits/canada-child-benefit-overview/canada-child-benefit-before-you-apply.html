@@ -148,7 +148,22 @@ div.hidden-action {
     margin-left: 30px;
     margin-top: 20px;
 }
-   
+/*fix OR pattern in checklists*/
+[class*=cnjnctn-type-] {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    margin-bottom: 15px;
+    margin-left: -15px; /*was 5*/
+    margin-right: 0px;
+    margin-top: 0px; /*was 15*/
+    position: relative;
+    min-height: 60px;
+}
+/*css to remove OR line for specific pages in dental/housing*/
+[class*=cnjnctn-type-] [class*=cnjnctn-col]:not(:first-child):after {
+    background-image: none !important;
+}   
 </style>
 
     <nav class="provisional gc-subway">
@@ -189,7 +204,7 @@ div.hidden-action {
             <input type="checkbox" id="eg2" name="action-checkbox" value="additional">
             <label for="eg2">You are primarily responsible for the care and upbringing of the child</label>
 
-            <details class="mrgn-lft-xl mrgn-rght-md mrgn-tp-sm">
+            <details class="mrgn-lft-xl mrgn-rght-md mrgn-tp-sm gc-font-2019">
             <summary><a href="#primary">Who is considered to be primarily responsible for the child</a></summary>
             <p>The person who is primarily responsible for the care and upbringing of the child could be a parent, step-parent, grandparent, relative, or legal guardian who is responsible for things such as:</p>
             <ul>
@@ -254,7 +269,7 @@ div.hidden-action {
             <input type="checkbox" id="eg4" name="action-checkbox" value="additional">
             <label for="eg4">You are not applying for a foster child who is already receiving the Children's Special Allowance (CSA)</label> 
 
-            <details class="mrgn-lft-xl mrgn-rght-md mrgn-tp-sm">
+            <details class="mrgn-lft-xl mrgn-rght-md mrgn-tp-sm gc-font-2019">
             <summary>Rule for receiving the CCB and the Children's Special Allowance</summary>
             <p>You cannot get the Canada Child Benefit (CCB) for a foster child for any month in which children's special allowances are payable.</p>
             <p>You may get the CCB if you live with and care for a child under a kinship or close relationship program from the governments of Canada, a province, a territory or an Indigenous governing body, as long as CSA are not payable for that child.</p>
@@ -336,12 +351,6 @@ div.hidden-action {
             </details>
         </li>
     </ul>
-
-
-
-
-
-
 
 
 
