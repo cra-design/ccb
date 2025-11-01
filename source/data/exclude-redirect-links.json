@@ -1,9 +1,5 @@
 [
   {
-    "origin": "https://www.canada.ca/en/revenue-agency/corporate/contact-information/check-cra-processing-times.html",
-    "destination": "/ccb/revenue-agency/corporate/contact-information/check-cra-processing-times.html"
-  },
-  {
     "origin": "https://www.canada.ca/en/services/taxes/child-and-family-benefits.html",
     "destination": "/ccb/services/taxes/child-and-family-benefits.html"
   },
