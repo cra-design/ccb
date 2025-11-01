@@ -23,7 +23,7 @@ notedlinks:
   - title: "Check CRA processing times"
     link: "https://www.canada.ca/en/revenue-agency/corporate/contact-information/check-cra-processing-times.html"
   - title: "Repository sitemap"
-    link: "https://cra-design.github.io/ccb/index.html"
+    link: "/ccb/index.html"
 ---
 
 <section data-ajax-replace="https://www.canada.ca/content/dam/cra-arc/includes/generic_disruption.txt#mail-disruption-en"></section>
@@ -987,25 +987,25 @@ notedlinks:
                         data-wb-doaction='[
 {"action": "removeClass", "source": "#panel-1-trbc", "class": "hidden" },
 {"action": "addClass", "source": "#cra-processing-times", "class": "col-md-7" },
-{"action": "loadJSON", "source": "#smallLoader", "url": "https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/extract_Benefits_E.json" },
+{"action": "loadJSON", "source": "#smallLoader", "url": "https://www.canada.ca/content/dam/cra-arc/includes/chck-cr-prcssng-tms/extract_Benefits_E.json" },
 {"action": "withInput", "srcInput": "#standarddatefield", "actions": [
 {
     "action": "patch", "source": "#smallLoader", "match": "^202[0-9]-[1,0][0-9]-[0,1,2,3][0-9]$", "default": "errorDate",
     "patches" : [
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase1",
-        "from": "https://cra-design.github.io/Benefit_Applications_digital/{qval}/0"
+        "path": "/phrase1",
+        "from": "/Benefit_Applications_digital/{qval}/0"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase2",
-        "from": "https://cra-design.github.io/Benefit_Applications_digital/{qval}/1"
+        "path": "/phrase2",
+        "from": "/Benefit_Applications_digital/{qval}/1"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/date",
-        "from": "https://cra-design.github.io/Benefit_Applications_digital/{qval}/2"
+        "path": "/date",
+        "from": "/Benefit_Applications_digital/{qval}/2"
         }
     ]
 }
@@ -1022,24 +1022,24 @@ notedlinks:
                         data-wb-doaction='[
 {"action": "removeClass", "source": "#panel-1-trbc", "class": "hidden" },
 {"action": "addClass", "source": "#cra-processing-times", "class": "col-md-7" },
-{"action": "loadJSON", "source": "#smallLoader", "url": "https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/extract_Benefits_E.json" },
+{"action": "loadJSON", "source": "#smallLoader", "url": "https://www.canada.ca/content/dam/cra-arc/includes/chck-cr-prcssng-tms/extract_Benefits_E.json" },
 {
     "action": "patch", "source": "#smallLoader",
     "patches" : [
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase1",
-        "from": "https://cra-design.github.io/Benefit_Applications_digital/noDate/0"
+        "path": "/phrase1",
+        "from": "/Benefit_Applications_digital/noDate/0"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase2",
-        "from": "https://cra-design.github.io/Benefit_Applications_digital/noDate/1"
+        "path": "/phrase2",
+        "from": "/Benefit_Applications_digital/noDate/1"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/date",
-        "from": "https://cra-design.github.io/Benefit_Applications_digital/noDate/2"
+        "path": "/date",
+        "from": "/Benefit_Applications_digital/noDate/2"
         }
 ] }
 ]'
@@ -1054,24 +1054,24 @@ notedlinks:
                         data-wb-doaction='[
 {"action": "removeClass", "source": "#panel-1-trbc", "class": "hidden" },
 {"action": "addClass", "source": "#cra-processing-times", "class": "col-md-7" },
-{"action": "loadJSON", "source": "#smallLoader", "url": "https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/extract_Benefits_E.json" },
+{"action": "loadJSON", "source": "#smallLoader", "url": "https://www.canada.ca/content/dam/cra-arc/includes/chck-cr-prcssng-tms/extract_Benefits_E.json" },
 {
     "action": "patch", "source": "#smallLoader",
     "patches" : [
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase1",
-        "from": "https://cra-design.github.io/Benefit_Applications_-_ABA_/noDate/0"
+        "path": "/phrase1",
+        "from": "/Benefit_Applications_-_ABA_/noDate/0"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase2",
-        "from": "https://cra-design.github.io/Benefit_Applications_-_ABA_/noDate/1"
+        "path": "/phrase2",
+        "from": "/Benefit_Applications_-_ABA_/noDate/1"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/date",
-        "from": "https://cra-design.github.io/Benefit_Applications_-_ABA_/noDate/2"
+        "path": "/date",
+        "from": "/Benefit_Applications_-_ABA_/noDate/2"
         }
 ] }
 ]'
@@ -1086,24 +1086,24 @@ notedlinks:
                         data-wb-doaction='[
 {"action": "removeClass", "source": "#panel-1-trbc", "class": "hidden" },
 {"action": "addClass", "source": "#cra-processing-times", "class": "col-md-7" },
-{"action": "loadJSON", "source": "#smallLoader", "url": "https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/extract_Benefits_E.json" },
+{"action": "loadJSON", "source": "#smallLoader", "url": "https://www.canada.ca/content/dam/cra-arc/includes/chck-cr-prcssng-tms/extract_Benefits_E.json" },
 {
     "action": "patch", "source": "#smallLoader",
     "patches" : [
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase1",
-        "from": "https://cra-design.github.io/Benefit_Applications_paper/noDate/0"
+        "path": "/phrase1",
+        "from": "/Benefit_Applications_paper/noDate/0"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase2",
-        "from": "https://cra-design.github.io/Benefit_Applications_paper/noDate/1"
+        "path": "/phrase2",
+        "from": "/Benefit_Applications_paper/noDate/1"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/date",
-        "from": "https://cra-design.github.io/Benefit_Applications_paper/noDate/2"
+        "path": "/date",
+        "from": "/Benefit_Applications_paper/noDate/2"
         }
 ] }
 ]'
@@ -1118,24 +1118,24 @@ notedlinks:
                         data-wb-doaction='[
 {"action": "removeClass", "source": "#panel-1-trbc", "class": "hidden" },
 {"action": "addClass", "source": "#cra-processing-times", "class": "col-md-7" },
-{"action": "loadJSON", "source": "#smallLoader", "url": "https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/extract_Benefits_E.json" },
+{"action": "loadJSON", "source": "#smallLoader", "url": "https://www.canada.ca/content/dam/cra-arc/includes/chck-cr-prcssng-tms/extract_Benefits_E.json" },
 {
     "action": "patch", "source": "#smallLoader",
     "patches" : [
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase1",
-        "from": "https://cra-design.github.io/Benefit_Application_-_correspondence_/noDate/0"
+        "path": "/phrase1",
+        "from": "/Benefit_Application_-_correspondence_/noDate/0"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase2",
-        "from": "https://cra-design.github.io/Benefit_Application_-_correspondence_/noDate/1"
+        "path": "/phrase2",
+        "from": "/Benefit_Application_-_correspondence_/noDate/1"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/date",
-        "from": "https://cra-design.github.io/Benefit_Application_-_correspondence_/noDate/2"
+        "path": "/date",
+        "from": "/Benefit_Application_-_correspondence_/noDate/2"
         }
 ] }
 ]'
@@ -1150,24 +1150,24 @@ notedlinks:
                         data-wb-doaction='[
 {"action": "removeClass", "source": "#panel-1-trbc", "class": "hidden" },
 {"action": "addClass", "source": "#cra-processing-times", "class": "col-md-7" },
-{"action": "loadJSON", "source": "#smallLoader", "url": "https://cra-design.github.io/ccb/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/extract_Benefits_E.json" },
+{"action": "loadJSON", "source": "#smallLoader", "url": "https://www.canada.ca/content/dam/cra-arc/includes/chck-cr-prcssng-tms/extract_Benefits_E.json" },
 {
     "action": "patch", "source": "#smallLoader",
     "patches" : [
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase1",
-        "from": "https://cra-design.github.io/Disability_Tax_Credit_Certificate_/noDate/0"
+        "path": "/phrase1",
+        "from": "/Disability_Tax_Credit_Certificate_/noDate/0"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/phrase2",
-        "from": "https://cra-design.github.io/Disability_Tax_Credit_Certificate_/noDate/1"
+        "path": "/phrase2",
+        "from": "/Disability_Tax_Credit_Certificate_/noDate/1"
         },
         {
         "op": "copy",
-        "path": "https://cra-design.github.io/date",
-        "from": "https://cra-design.github.io/Disability_Tax_Credit_Certificate_/noDate/2"
+        "path": "/date",
+        "from": "/Disability_Tax_Credit_Certificate_/noDate/2"
         }
 ] }
 ]'
