@@ -1,5 +1,25 @@
 [
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gst-hst-credit/eligibility.html",
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit/eligibility.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gst-hst-credit/how-much.html",
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit/how-much.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gst-hst-credit/how-get-credit.html",
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit/how-get-credit.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gst-hst-credit/payment-dates.html",
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit/payment-dates.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gst-hst-credit/get-payments.html",
+    "destination": "/ccb/revenue-agency/services/child-family-benefits/gst-hst-credit/get-payments.html"
+  },  
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/corporate/contact-information/check-cra-processing-times.html",
     "destination": "/ccb/revenue-agency/corporate/contact-information/check-cra-processing-times.html"
   },
