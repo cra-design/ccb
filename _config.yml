@@ -67,5 +67,5 @@ defaults:
         - https://cra-design.github.io/core-prototype/source/css/testing-banner.css
         - https://cra-design.github.io/TFSA-cop/en/revenue-agency/services/tax/individuals/topics/tfsa.css
       script:
-        - https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/m%C3%A9li-m%C3%A9lo/2025-12-mille-iles.js
         - https://cra-design.github.io/core-prototype/source/scripts/external-link-detour.js
+        - https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/m%C3%A9li-m%C3%A9lo/2025-12-mille-iles.js
